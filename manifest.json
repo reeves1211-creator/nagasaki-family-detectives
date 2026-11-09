@@ -1,0 +1,24 @@
+{
+  "name": "尋找長崎秘密寶藏 - Nagasaki Family Detectives",
+  "short_name": "長崎秘寶",
+  "description": "長崎家庭探偵團互動旅程",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0d2733",
+  "theme_color": "#0d2733",
+  "icons": [
+    {
+      "src": "assets/pet_0_0.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "assets/girl_0_0.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
